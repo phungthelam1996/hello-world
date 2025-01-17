@@ -4,8 +4,11 @@
   "description": "Hello World",
   "main": "index.js",
   "scripts": {
-    "start": "NODE_OPTIONS=--max-old-space-size=8192 bytenode app.bundle.jsc"
+    "start": "cross-env NODE_OPTIONS=--max-old-space-size=8192 bytenode app.bundle.jsc"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bytenode": "^1.5.6",
+    "cross-env": "^7.0.3"
+  },
   "author": "LamPT"
 }
