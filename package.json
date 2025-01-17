@@ -1,0 +1,11 @@
+{
+  "name": "hello-world",
+  "version": "0.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_OPTIONS=--max-old-space-size=8192 bytenode app.bundle.jsc"
+  },
+  "dependencies": {},
+  "author": "LamPT"
+}
