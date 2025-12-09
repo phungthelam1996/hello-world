@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "name": "Template 1",
-    "description": "This is a template for a simple HTML email",
-    "html": "<html><body><h1>Hello, World!</h1></body></html>",
+    "name": "1. Emty Body 01",
+    "description": "Like email tempty",
+    "html": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style></head><body dir=\"ltr\"><div class=\"elementToProof\"><br></div></body></html>",
     "lastModified": "2025-01-01",
     "lastWorking": "2025-01-01",
     "isWorking": true
   },
   {
     "id": 2,
-    "name": "Template 2",
-    "description": "This is a template for a simple HTML email",
-    "html": "<html><body><h1>Hello, World!</h1></body></html>",
+    "name": "2. Forward Email 01",
+    "description": "Like forward email",
+    "html": "<html><body><div><div dir=\"ltr\"><div dir=\"ltr\" id=\"x_divRplyFwdMsg\"><font color=\"black\" face=\"Calibri,sans-serif\" style=\"font-size:11pt\"><b>From:</b>#MY_EMAIL#<br><b>Sent:</b>#SEND_DATE#br /><b>To:</b>#EMAIL# &lt;#EMAIL#&gt;<br><b>Subject:</b>#SAME_SUBJECT#</font><div>&nbsp;</div></div><div><div>#SAME_SUBJECT#</div></div></div></div></body></html>",
     "lastModified": "2025-01-01",
     "lastWorking": "2025-01-01",
     "isWorking": true
