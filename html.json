@@ -1,4 +1,5 @@
 [{
+    "id": 1,
     "name": "Template 1",
     "description": "This is a template for a simple HTML email",
     "html": "<html><body><h1>Hello, World!</h1></body></html>",
@@ -6,6 +7,7 @@
     "lastWorking": "2025-01-01",
     "isWorking": true,
 }, {
+    "id": 2,
     "name": "Template 2",
     "description": "This is a template for a simple HTML email",
     "html": "<html><body><h1>Hello, World!</h1></body></html>",
