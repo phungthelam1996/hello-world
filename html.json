@@ -48,7 +48,7 @@
     "id": 5,
     "name": "5. Same Subject 02",
     "description": "Body content same subject",
-    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><title>My Email</title></head><body><p>#SAME_SUBJECT#</p>#RANDOM_ALL_TAG_1_100#</body></html>",
+    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><title>My Email</title></head><body><p>#SAME_SUBJECT#</p></body></html>",
     "lastModified": "2025-01-01",
     "lastWorking": "2025-01-01",
     "isWorking": true
