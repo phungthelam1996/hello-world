@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "1: Html Template 01",
+    "name": "1: Empty Body Template 01",
     "description": "Html Template Auto Generated",
     "html": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"></head><body style=\"margin:0; padding:16px; font-family:Arial;\">#RANDOM_ALL_TAG_1_100#</body></html>",
     "lastModified": "2025-12-12T10:50:28.397Z",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "name": "2: Html Template 02",
+    "name": "2: Empty Body Template 02",
     "description": "Html Template Auto Generated",
     "html": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"></head><body style=\"font-family:Tahoma; margin:12px;\"><div>#RANDOM_ALL_TAG_1_100#</div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "name": "3: Html Template 03",
+    "name": "3: Empty Body Template 03",
     "description": "Html Template Auto Generated",
     "html": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"></head><body><span style=\"font-family:Verdana; display:block; padding:14px;\">#RANDOM_ALL_TAG_1_100#</span></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "name": "4: Html Template 04",
+    "name": "4: Empty Body Template 04",
     "description": "Html Template Auto Generated",
     "html": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"></head><body style=\"padding:10px; font-family:Georgia;\"><p style=\"margin:0;\">#RANDOM_ALL_TAG_1_100#</p></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "name": "5: Html Template 05",
+    "name": "5: Empty Body Template 05",
     "description": "Html Template Auto Generated",
     "html": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"></head><body><div style=\"padding:18px; font-family:'Segoe UI';\">#RANDOM_ALL_TAG_1_100#</div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "name": "6: Html Template 06",
+    "name": "6: Empty Body Template 06",
     "description": "Html Template Auto Generated",
     "html": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><style>P{margin:0;}</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos, Calibri, Helvetica; font-size:12pt; color:#000;\">#RANDOM_ALL_TAG_1_100#</div><div id=\"appendonsend\"></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "name": "7: Html Template 07",
+    "name": "7: Empty Body Template 07",
     "description": "Html Template Auto Generated",
     "html": "<html><head><meta charset=\"UTF-8\"><style type=\"text/css\">p{margin:0;}</style></head><body dir=\"ltr\"><span style=\"display:block; font-family:Aptos, Helvetica; font-size:12pt; color:#000;\">#RANDOM_ALL_TAG_1_100#</span><div id=\"appendonsend\"></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "name": "8: Html Template 08",
+    "name": "8: Empty Body Template 08",
     "description": "Html Template Auto Generated",
     "html": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"></head><body dir=\"ltr\" style=\"margin:0;\"><div style=\"font-size:12pt; font-family:Aptos, Calibri; color:#000000;\">#RANDOM_ALL_TAG_1_100#</div><div id=\"appendonsend\"></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "name": "9: Html Template 09",
+    "name": "9: Empty Body Template 09",
     "description": "Html Template Auto Generated",
     "html": "<html><head><meta charset=\"UTF-8\"><style>p{margin-top:0;margin-bottom:0}</style></head><body dir=\"ltr\"><p style=\"font-family:Aptos, Helvetica; font-size:12pt; color:#000;\">#RANDOM_ALL_TAG_1_100#</p><div id=\"appendonsend\"></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "name": "10: Html Template 10",
+    "name": "10: Empty Body Template 10",
     "description": "Html Template Auto Generated",
     "html": "<html><head><meta charset=\"UTF-8\"></head><body dir=\"ltr\" style=\"font-family:Aptos, Calibri; font-size:12pt; color:#000;\"><div>#RANDOM_ALL_TAG_1_100#</div><div id=\"appendonsend\"></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "name": "11: Html Template 11",
+    "name": "11: Forward Template 01",
     "description": "Html Template Auto Generated",
     "html": "<html><body><div><div dir=\"ltr\"><div dir=\"ltr\" id=\"x_divRplyFwdMsg\"><font color=\"black\" face=\"Calibri,sans-serif\" style=\"font-size:11pt\"><b>From:</b>#MY_EMAIL#<br><b>Sent:</b>#SENT_DATE#<br><b>To:</b>#EMAIL# &lt;#EMAIL#&gt;<br>#RANDOM_ALL_TAG_1_100#<b>Subject:</b>#SAME_SUBJECT#</font><div>&nbsp;</div></div><div><div>#SAME_SUBJECT#</div></div></div></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "name": "12: Html Template 12",
+    "name": "12: Forward Template 02",
     "description": "Html Template Auto Generated",
     "html": "<html><body><div><div dir=\"ltr\"><div dir=\"ltr\" id=\"x_divRplyFwdMsg\"><font face=\"Calibri,sans-serif\" color=\"black\" style=\"font-size:11pt\"><b>From:</b>#MY_EMAIL#<br><b>Sent:</b>#SENT_DATE#<br><b>To:</b>#EMAIL# &lt;#EMAIL#&gt;<br>#RANDOM_ALL_TAG_1_100#<b>Subject:</b>#SAME_SUBJECT#</font><div>&nbsp;</div></div><div><div>#SAME_SUBJECT#</div></div></div></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "name": "13: Html Template 13",
+    "name": "13: Forward Template 03",
     "description": "Html Template Auto Generated",
     "html": "<html><body><div><div dir=\"ltr\"><div id=\"x_divRplyFwdMsg\" dir=\"ltr\"><font style=\"font-size:11pt\" color=\"black\" face=\"Calibri,sans-serif\"><b>From:</b>#MY_EMAIL#<br><b>Sent:</b>#SENT_DATE#<br><b>To:</b>#EMAIL# &lt;#EMAIL#&gt;<br>#RANDOM_ALL_TAG_1_100#<b>Subject:</b>#SAME_SUBJECT#</font><div>&nbsp;</div></div><div><div>#SAME_SUBJECT#</div></div></div></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "name": "14: Html Template 14",
+    "name": "14: Forward Template 04",
     "description": "Html Template Auto Generated",
     "html": "<html><body><div><div dir=\"ltr\"><div dir=\"ltr\" id=\"x_divRplyFwdMsg\"><font color=\"black\" style=\"font-size:11pt\" face=\"Calibri,sans-serif\"><b>From:</b>#MY_EMAIL#<br><b>Sent:</b>#SENT_DATE#<br><b>To:</b>#EMAIL# &lt;#EMAIL#&gt;<br>#RANDOM_ALL_TAG_1_100#<b>Subject:</b>#SAME_SUBJECT#</font><div>&nbsp;</div></div><div><div>#SAME_SUBJECT#</div></div></div></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "name": "15: Html Template 15",
+    "name": "15: Forward Template 05",
     "description": "Html Template Auto Generated",
     "html": "<html><body><div><div dir=\"ltr\"><div id=\"x_divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri,sans-serif\" style=\"font-size:11pt\" color=\"black\"><b>From:</b>#MY_EMAIL#<br><b>Sent:</b>#SENT_DATE#<br><b>To:</b>#EMAIL# &lt;#EMAIL#&gt;<br>#RANDOM_ALL_TAG_1_100#<b>Subject:</b>#SAME_SUBJECT#</font><div>&nbsp;</div></div><div><div>#SAME_SUBJECT#</div></div></div></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-    "name": "16: Html Template 16",
+    "name": "16: Same Subject Template 01",
     "description": "Html Template Auto Generated",
     "html": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=us-ascii\"><style type=\"text/css\" style=\"display:none\">P{margin-top:0;margin-bottom:0}</style></head><body dir=\"ltr\"><div><span>#SAME_SUBJECT##RANDOM_ALL_TAG_1_100#</span></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-    "name": "17: Html Template 17",
+    "name": "17: Same Subject Template 02",
     "description": "Html Template Auto Generated",
     "html": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=us-ascii\"><style type=\"text/css\" style=\"display:none\">P{margin-top:0;margin-bottom:0}</style></head><body dir=\"ltr\"><div><div style=\"display:block\">#SAME_SUBJECT##RANDOM_ALL_TAG_1_100#</div></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -154,7 +154,7 @@
   },
   {
     "id": 18,
-    "name": "18: Html Template 18",
+    "name": "18: Same Subject Template 03",
     "description": "Html Template Auto Generated",
     "html": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=us-ascii\"><style type=\"text/css\" style=\"display:none\">P{margin:0}</style></head><body dir=\"ltr\"><section><div>#SAME_SUBJECT##RANDOM_ALL_TAG_1_100#</div></section></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -163,7 +163,7 @@
   },
   {
     "id": 19,
-    "name": "19: Html Template 19",
+    "name": "19: Same Subject Template 04",
     "description": "Html Template Auto Generated",
     "html": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=us-ascii\"><style type=\"text/css\" style=\"display:none\">P{margin-top:0;margin-bottom:0}</style></head><body dir=\"ltr\"><div><p style=\"display:inline;\">#SAME_SUBJECT##RANDOM_ALL_TAG_1_100#</p></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -172,7 +172,7 @@
   },
   {
     "id": 20,
-    "name": "20: Html Template 20",
+    "name": "20: Same Subject Template 05",
     "description": "Html Template Auto Generated",
     "html": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=us-ascii\"><style type=\"text/css\" style=\"display:none\">P{margin:0}</style></head><body dir=\"ltr\"><div><font>#SAME_SUBJECT##RANDOM_ALL_TAG_1_100#</font></div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -181,7 +181,7 @@
   },
   {
     "id": 21,
-    "name": "21: Html Template 21",
+    "name": "21: Same Subject Template 06",
     "description": "Html Template Auto Generated",
     "html": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"><title>My Email</title></head><body><div>#SAME_SUBJECT#</div></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -190,7 +190,7 @@
   },
   {
     "id": 22,
-    "name": "22: Html Template 22",
+    "name": "22: Same Subject Template 07",
     "description": "Html Template Auto Generated",
     "html": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"><title>My Email</title></head><body><span>#SAME_SUBJECT#</span></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -199,7 +199,7 @@
   },
   {
     "id": 23,
-    "name": "23: Html Template 23",
+    "name": "23: Same Subject Template 08",
     "description": "Html Template Auto Generated",
     "html": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"><title>My Email</title></head><body><section><p>#SAME_SUBJECT#</p></section></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -208,7 +208,7 @@
   },
   {
     "id": 24,
-    "name": "24: Html Template 24",
+    "name": "24: Same Subject Template 09",
     "description": "Html Template Auto Generated",
     "html": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width\"><title>My Email</title></head><body><p style=\"margin:0\">#SAME_SUBJECT#</p></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
@@ -217,7 +217,7 @@
   },
   {
     "id": 25,
-    "name": "25: Html Template 25",
+    "name": "25: Same Subject Template 10",
     "description": "Html Template Auto Generated",
     "html": "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"><title>My Email</title></head><body><font>#SAME_SUBJECT#</font></body></html>",
     "lastModified": "2025-12-12T10:50:28.398Z",
