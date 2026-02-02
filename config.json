@@ -1,5 +1,5 @@
 {
-  "email_domain": ["hotmail.com", "outlook.com"],
+  "email_domain": ["hotmail.com"],
   "auto_renew": true,
   "first_name": ["Alibaba"],
   "last_name": ["Alibaba"],
